@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ドロシー",
+  "base_artist": "秋山黄色",
+  "createdAt": "2025-12-04T22:40:14.705610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドロシー",
+      "artist": "Misumi",
+      "has_synced": true,
+      "path": "select/01_ドロシー_Misumi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドロシー",
+      "artist": "秋山黄色",
+      "has_synced": true,
+      "path": "select/02_ドロシー_秋山黄色.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドロシー",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_ドロシー_秋山黄色.txt"
+    }
+  ]
+}
